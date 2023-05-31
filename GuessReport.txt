@@ -1,0 +1,4 @@
+
+User name: zzz
+Number of attempts: 3
+The standard devision = 12.47219128924647
